@@ -1,0 +1,2 @@
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Visvesvaraya_Technological_University_logo.png" width="150" height="150" alt="accessibility text">
+Welcome to the VTU Notes repository for the 6th semester! This repository contains comprehensive notes for various subjects offered in the 6th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
